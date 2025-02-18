@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Roger Guinalia!  
 
-<!--
-**Guinalia/Guinalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack em formação, apaixonado por tecnologia e aprendizado contínuo.  
+🚀 Buscando oportunidades para atuar como desenvolvedor, aplicando conhecimentos em **JavaScript, React, Node.js e SQL**.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- 🔹 **Front-End:** HTML, CSS, JavaScript, React.js  
+- 🔹 **Back-End:** Node.js, Express.js  
+- 🔹 **Banco de Dados:** MySQL, PostgreSQL  
+- 🔹 **Ferramentas:** Git, GitHub, VS Code  
+- 🔹 **Metodologias:** Scrum, Kanban  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos Destacados:
+### 1️⃣ **Sistema de Gerenciamento de Tarefas**  
+📌 Aplicação web para cadastro, edição e exclusão de tarefas.  
+🔹 **Tecnologias:** React.js, Node.js, MongoDB  
+🔗 **[Repositório no GitHub](https://github.com/Guinalia/todo-app)**  
+
+### 2️⃣ **API de Cadastro de Usuários**  
+📌 API REST para gerenciar usuários e autenticação JWT.  
+🔹 **Tecnologias:** Node.js, Express, PostgreSQL  
+🔗 **[Repositório no GitHub](https://github.com/Guinalia/api-usuarios)**  
+
+## 📫 Contato  
+🔹 **LinkedIn:** [linkedin.com/in/roger-guinalia](https://www.linkedin.com/in/roger-guinalia)  
+🔹 **E-mail:** rogertheodor@hotmail.com  
+
+💡 Sempre aberto a novos desafios e colaborações!
